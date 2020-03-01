@@ -1,4 +1,3 @@
 # ContractBox
 Contract box UI
-
-React v0.12.2
+This is React v0.12.2 project Contract box layout 
