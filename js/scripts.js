@@ -193,8 +193,8 @@ var fixtures = [
         title: "Jiu Jitsu contact",
         status: "PENDING",
         body: "Contract with Oleg Vinokurov and Independent Jiu Jitsu School <br> <embed src=\"/pdf/SAMPLE-CONTRACT.pdf#page=1\" type=\"application/pdf\" width=\"750\" height=\"500\">",
-        date: "01/01/2020",
-        dateModified : "02/02/2020",
+        date: "02/11/2020",
+        dateModified : "02/16/2020",
         notes:[
                 {
                   id:1,
@@ -222,8 +222,8 @@ var fixtures = [
         title: "Music Contract",
         status: "NEGOTIATION",
         body: "Music contract. <br><img src='img/contract.jpg'>",
-        date: "01/10/2020",
-        dateModified : "02/20/2020"
+        date: "02/10/2020",
+        dateModified : "02/22/2020"
       },
       {
         id: 3,
@@ -231,8 +231,8 @@ var fixtures = [
         title: "Football Contract",
         status: "INEFFECT",
         body: "<h1>Alexander Douglas</h1> <p>The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. </p> <br><img src='https://www.kcseminoles.com/img/CMC%20%202017%20Player%20Contract_Page_1.png' width='600'>",
-        date: "10/01/2019",
-        dateModified : "09/20/2019"
+        date: "02/01/2020",
+        dateModified : "02/20/2020"
       },
       {
         id: 4,
@@ -249,8 +249,8 @@ var fixtures = [
         title: "Medical contract",
         status: "PENDING",
         body: "<img src='img/contract.jpg'>",
-        date: "03/03/2020",
-        dateModified : "03/02/2020"
+        date: "02/03/2001",
+        dateModified : "02/02/2010"
       },
       {
         id: 6,
@@ -269,21 +269,21 @@ var fixtures = [
     contracts: [
       {
         id: 3,
-        with: "Nigerian Prince",
-        title: "Contract with Nigerian Prince",
+        with: "	Oleg Vinokurov",
+        title: "Jiu Jitsu contact",
         status: "PENDING",
-        body: "This contract is Old",
-        date: "01/01/2001",
-        dateModified : "02/02/2001"
+        body: "Contract with Oleg Vinokurov and Independent Jiu Jitsu School <br> <embed src=\"/pdf/SAMPLE-CONTRACT.pdf#page=1\" type=\"application/pdf\" width=\"750\" height=\"500\">",
+        date: "02/11/2020",
+        dateModified : "02/16/2020",
       },
       {
         id: 4,
-        with: "Nigerian Prince",
-        title: "Contract with Nigerian Prince",
+        with: "Alex Ruthor",
+        title: "Medical contract",
         status: "PENDING",
-        body: "This contract is Old",
-        date: "01/01/2001",
-        dateModified : "02/02/2001"
+        body: "<img src='img/contract.jpg'>",
+        date: "02/03/2001",
+        dateModified : "02/02/2010"
       }
     ]
   }
@@ -298,8 +298,8 @@ var fixtures = [
         title: "Football Contract",
         status: "INEFFECT",
         body: "<h1 class=\"btn btn-info btn-lg\">Alexander Douglas</h1> <p>The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. </p> <br><img src='https://www.kcseminoles.com/img/CMC%20%202017%20Player%20Contract_Page_1.png' width='300'> ",
-        date: "10/01/2019",
-        dateModified : "09/20/2019"
+        date: "02/01/2020",
+        dateModified : "02/20/2020"
       },
       {
         id: 4,
@@ -323,8 +323,8 @@ var fixtures = [
         title: "Music Contract",
         status: "NEGOTIATION",
         body: "<img src='img/contract.jpg' width=600/)>",
-        date: "01/10/2020",
-        dateModified : "02/20/2020"
+        date: "02/10/2020",
+        dateModified : "02/22/2020"
       }
     ]
   },
