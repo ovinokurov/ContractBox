@@ -192,7 +192,7 @@ var fixtures = [
         with: "Oleg Vinokurov",
         title: "Jiu Jitsu contact",
         status: "PENDING",
-        body: "Contract with Oleg Vinokurov and Independent Jiu Jitsu School <br> <embed src=\"/pdf/SAMPLE-CONTRACT.pdf#page=1\" type=\"application/pdf\" width=\"750\" height=\"500\">",
+        body: "Contract with Oleg Vinokurov and Independent Jiu Jitsu School <br> <embed src=\"pdf/contract.pdf#page=1\" type=\"application/pdf\" width=\"750\" height=\"500\">",
         date: "02/11/2020",
         dateModified : "02/16/2020",
         notes:[
@@ -205,7 +205,7 @@ var fixtures = [
                 {
                   id:2,
                   author:"Sam Smith",
-                  date:"01/01/2020 1:30pm",
+                  date:"01/02/2020 1:30pm",
                   note:"negotiation note 2"
                 },
                 {
@@ -272,7 +272,7 @@ var fixtures = [
         with: "	Oleg Vinokurov",
         title: "Jiu Jitsu contact",
         status: "PENDING",
-        body: "Contract with Oleg Vinokurov and Independent Jiu Jitsu School <br> <embed src=\"/pdf/SAMPLE-CONTRACT.pdf#page=1\" type=\"application/pdf\" width=\"750\" height=\"500\">",
+        body: "Contract with Oleg Vinokurov and Independent Jiu Jitsu School <br> <embed src=\"pdf/contract.pdf#page=1\" type=\"application/pdf\" width=\"750\" height=\"500\">",
         date: "02/11/2020",
         dateModified : "02/16/2020",
       },
